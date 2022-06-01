@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @tumon-art
-- 👀 I’m interested in JavaScript
-- ## 🛠 Skills
-- 🌱 Express, React, TypeScript, NextJS, Docker, GO
-- 📫 I'm on Telegram => @TUMON_001
+
+# Hi, I'm Tumon! 👋
+
+
+
+## Tech Stack
+
+**Client:** React, NextJS, TailwindCSS
+
+**Server:** Node, Express, Docker
+
+
