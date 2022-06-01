@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tumon-art
 - 👀 I’m interested in JavaScript
 - ## 🛠 Skills
-- 🌱 I’m currently learning [ Express, React, TypeScript, NextJS, Docker, GO ]
+- 🌱 Express, React, TypeScript, NextJS, Docker, GO
 - 📫 I'm on Telegram => @TUMON_001
