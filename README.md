@@ -3,9 +3,9 @@
 
 
 ## 
-🧠 I'm currently learning [NextJS,NodeJS,Docker,Tailwind]...
+🧠 I'm currently learning [NextJS,NodeJS,Docker,Tailwind]
 
-📫 How to reach me on Telegram @TUMON_001
+📫 Reach me on Telegram @TUMON_001
 
 
 ## 🎖 Tech Stack
