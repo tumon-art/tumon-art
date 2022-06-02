@@ -20,7 +20,7 @@
 ⚡️ Fun fact...
 
 
-## Tech Stack
+## 🎖️ Tech Stack
 
 **Client:** React, NextJS, TailwindCSS
 
